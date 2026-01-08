@@ -4,7 +4,7 @@
 ![Região](https://img.shields.io/badge/Foco-Piau%C3%AD%20--%20Brasil-blue)
 
 ## 🎥 Demonstração do Dashboard
-![GIF Casos de Hanseníase](gif casos de hanseniase.gif)
+![GIF Casos de Hanseníase](gif_casos_de_hanseniase.gif)
 
 ## 📋 Sobre o Projeto
 Este dashboard foi desenvolvido para fornecer uma visão clara e detalhada dos indicadores de **Hanseníase no estado do Piauí**. A ferramenta auxilia órgãos de saúde e gestores na análise da distribuição espacial e temporal da doença, facilitando o direcionamento de políticas de combate e prevenção.
